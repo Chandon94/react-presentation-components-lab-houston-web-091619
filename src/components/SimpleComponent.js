@@ -6,6 +6,7 @@ class SimpleComponent extends Component {
     super(props)
     
     this.state = {
+      mood: 'happy'
       
     }
   }
