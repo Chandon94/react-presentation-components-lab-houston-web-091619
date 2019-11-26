@@ -1,0 +1,3 @@
+class SimpleComponent extends Component {
+  
+}
