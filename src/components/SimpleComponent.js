@@ -1,6 +1,6 @@
 import React from 'react'
 
-// class SimpleComponent extends Component {
+class SimpleComponent extends Component {
   
 //   constructor(props) {
 //     super(props)
@@ -19,6 +19,6 @@ import React from 'react'
     
 //   }
   
-// }
+}
 
-// export default SimpleComponent
+export default SimpleComponent
