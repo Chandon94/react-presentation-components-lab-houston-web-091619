@@ -1,5 +1,5 @@
 class SimpleComponent extends Component {
-  state{
+  state = {
     mood: 'happy'
   }
 }
